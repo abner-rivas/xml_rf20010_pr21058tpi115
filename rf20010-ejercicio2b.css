@@ -1,0 +1,11 @@
+/* rf20010-ejericio2b.css   rf20010  */
+
+pais {background-color:purple; color:blue display:block;}
+departamento {background-color:blue; display:block; text-align:center;} 
+cabecera {color:purple;font-size:3cm; display:block; float: right;} 
+habitantes {color:white;font-size:2cm; display:block;}
+altura {color:yellow;font-size:1cm; display:block; float: left;}
+
+moneda {color:yellow;font-size:1cm; display:block; text-align:center;}
+idioma {color:white; display:block; font-size:1cm; float: left;}
+codigoTelefono {color:white; display:block; font-size:1cm; float: right;}

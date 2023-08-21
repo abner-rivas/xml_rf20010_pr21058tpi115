@@ -1,0 +1,16 @@
+/* rf20010-ejercicio1a.css   rf20010  */
+
+fichero {background-color:white; }
+ficha {background-color:red; display:block;} 
+nombre {color:blue; display:inline;} 
+apellido {color:yellow; display:block;}
+direccion {color:yellow;font-size:1cm; display:block;}
+
+datos {background-color:green; display:block;} 
+primerNombre {color:blue; display:inline;}
+segundoNombre {color:yellow; display:inline;}
+apellidoUno {color:red; display:inline;}
+apellidoDos {color:black; display:inline; }
+telefono {color:white; display:block; font-size:1cm; text-align:center;}
+correo {color:orange; display:block; font-size:1cm; float: right;}
+urlHost {color:black; display:inline; font-size:1cm; float: left;}

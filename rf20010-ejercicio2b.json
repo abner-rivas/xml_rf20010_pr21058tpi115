@@ -1,0 +1,35 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Sonsonate",
+				"@area":"232.5 km^2",
+				"@gentilicio":"sonsonateco",
+				"cabecera":"La ciudad de Sonsonate",
+				"habitantes":"72,158",
+				"altura":"246 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Chalatenango",
+				"@area":"131.05 km^2",
+				"@gentilicio":"chalateco",
+				"cabecera":"Chalatenango",
+				"habitantes":"275,000",
+				"altura":"396 MSNM"
+			}
+		],
+		"moneda":"Dolar",
+		"idioma":"Español",
+		"codigoTelefono":"+503"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Sonsonate",
+				"@area":"232.5 m2",
+				"@gentilicio":"sonsonateco",
+				"cabecera":"La ciudad de Sonsonate",
+				"habitantes":"72,158",
+				"altura":"246 MSNM"
+			}
+		],
+		"moneda":"Dolar",
+		"idioma":"Español",
+		"codigoTelefono":"+503"
+	}
+}

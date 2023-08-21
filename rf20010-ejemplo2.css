@@ -1,0 +1,6 @@
+/* rf20010-ejemplo2.css   rf20010  */
+pais {background-color:green; color:white display:block;}
+departamento {background-color:orange; display:block;} 
+cabecera {color:blue;font-size:3cm; display:inline;} 
+habitantes {color:white;font-size:2cm; display:block;}
+altura {color:yellow;font-size:1cm; display:inline;}

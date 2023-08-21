@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="rf20010-ejercicio1b.css"?>
+<!-- ejemplo1.xml  RF20010 -->
+<fichero>
+  <ficha id="1" fechaingreso="1/11/2012">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+  <datos id="2" carnet="rf20010" fechaingreso="1/11/2020">
+    <primerNombre>Josias</primerNombre>
+    <segundoNombre>Abner</segundoNombre>
+    <apellidoUno>Rivas</apellidoUno>
+    <apellidoDos>Fuentes</apellidoDos>
+    <telefono>60135513</telefono>
+    <correo>abnerrivas@gmail.com</correo>
+    <urlHost>xml.rf20010.tpi</urlHost>
+  </datos>
+  <info id="3" dui="06323701-4" carnet="rf20010" fechaingreso="1/11/2020">
+    <primerNombre>Josias</primerNombre>
+    <segundoNombre>Abner</segundoNombre>
+    <apellidoUno>Rivas</apellidoUno>
+    <apellidoDos>Fuentes</apellidoDos>
+    <telefono>60135513</telefono>
+    <correo>abnerrivas@gmail.com</correo>
+    <urlHost>xml.rf20010.tpi</urlHost>
+    <isss>465484</isss>
+    <afp>4854111</afp>
+  </info>
+</fichero>
